@@ -265,11 +265,11 @@ p{
 }
  /* Esta parte es para la seccion de contactos para quitarle el efecto de hipervinculo a las etiquetas a */
  
-  .integrantes{
+  .nombre{
    text-decoration: none;
   }
 
-/* Estilo Contenedores de la Seccion Integrantes */
+/* Estilo Contenedores de la Seccion de Inicio */
 
 .ContenedorProductos{
     display: flex;
